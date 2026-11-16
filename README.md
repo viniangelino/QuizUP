@@ -75,6 +75,8 @@ app/src/main/java/br/com/quizup/
 
 ## Integrantes
 
-- ✏️ Nome 1
-- ✏️ Nome 2
-- ✏️ Nome 3
+- ✏️ Vinicius Vicente Angelino
+- ✏️ Marcos Danrlei de Araujo
+- ✏️ Luis Felipe de Paula Fogaça
+- ✏️ Lucas Pereira Hartinger
+- ✏️ Felipe Paulista Silveira
