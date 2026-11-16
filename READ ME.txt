@@ -1,0 +1,28 @@
+PARTE 1 - Banco de dados (Room) + base do projeto
+=================================================
+
+ORDEM: Voce CRIA o repositorio e posta PRIMEIRO.
+
+COMO POSTAR NO GITHUB
+1. Extraia este .rar.
+2. No repositorio: Add file -> Upload files.
+3. ARRASTE tudo o que foi extraido para a pagina, MENOS este LEIA-ME.
+   Os caminhos ja estao certos: cada arquivo cai no lugar dele no projeto.
+4. Commit com a mensagem abaixo.
+
+MENSAGEM DO COMMIT: PARTE 1 - Banco de dados (Room) + base do projeto
+
+ARQUIVOS DESTA PARTE (codigo que voce explica):
+  - app/src/main/java/br/com/quizup/data/local/Entidades.kt
+  - app/src/main/java/br/com/quizup/data/local/PerguntaDao.kt
+  - app/src/main/java/br/com/quizup/data/local/PontuacaoDao.kt
+  - app/src/main/java/br/com/quizup/data/local/QuizDatabase.kt
+  - app/src/main/java/br/com/quizup/data/local/DadosIniciais.kt
+
+BASE DO PROJETO (tambem vai neste commit, nao precisa explicar em detalhe):
+  Gradle, AndroidManifest, README, docs/logo, telas (ui/telas), componentes e tema.
+
+O QUE VOCE EXPLICA NA APRESENTACAO:
+  Entidades (@Entity Pergunta e Pontuacao), DAOs (@Insert, @Query, @Update, @Delete), Flow no buscarTodas(), QuizDatabase Singleton e os dados iniciais.
+
+OBS: o app so compila depois que as 5 partes estiverem no repositorio.
